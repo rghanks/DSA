@@ -9,7 +9,6 @@ int findComplement(int num) {
        // cout << left_shift << " <= " << endl;
         break;
     }
-
 }
 
 int main(){
