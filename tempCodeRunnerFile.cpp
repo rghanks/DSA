@@ -1,2 +1,4 @@
-cout << rs << endl;
-    // cout << rs << endl;
+ // if(carry == limit){
+            //     boat++;
+            //     //totalCarry++;
+            // } 
