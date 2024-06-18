@@ -40,7 +40,7 @@ int main(){
     //     cout << endl;
     // }
 
-
+   
 /*
  1
  2 3 
